@@ -6,4 +6,4 @@ Integrantes
 - Jorge Carlos Durango Ramos
 - Gerson David Ramirez Vargas
 - Juan José  Julio Montiel
-
+- Yeison Luis Suarez Rico
